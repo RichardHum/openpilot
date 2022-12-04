@@ -4,7 +4,7 @@
   branch = forester-2022
 [submodule "opendbc"]
   path = opendbc
-  url = ../../martinl/opendbc.git
+  url = https://github.com/RichardHum/opendbc.git
   branch = forester-2022
 [submodule "laika_repo"]
   path = laika_repo
